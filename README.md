@@ -1,16 +1,59 @@
 # gujrat_vegetables
 
-A new Flutter project.
+Gujarat Vegetables is a fruit and vegetable delivery app that allows customers to order fresh produce from local farms and have them delivered to their doorstep. With Gujarat Vegetables, customers can enjoy the convenience of online shopping while supporting local agriculture and promoting healthy eating habits.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Easy registration and login[Devlopment phase]
+* Browse and search for products by category, name, or keyword[future demands]
+* View product details, including photos, descriptions, and prices
+* Add products to the cart and proceed to checkout
+* Select delivery date and time, and provide delivery address and payment information
+* Receive order confirmation and delivery updates via email and push notifications
+* Rate and review products and delivery experience
+* Contact customer support for assistance or feedback
 
-A few resources to get you started if this is your first Flutter project:
+## Technology Stack
+Gujarat Vegetables is built using the following technologies:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Frontend: Flutter
+* Backend:  MongoDB, Firebase [Devlopment phase]
+* Payment gateway: Razorpay[Devlopment phase]
+* Push notifications: Firebase Cloud Messaging (FCM)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+To install Gujarat Vegetables on your device, follow these steps:
+
+The app is on devlopment phase and can be installed from playstore later.
+
+
+## Contribution
+If you want to contribute to Gujarat Vegetables, follow these steps:
+
+1.Fork the repository from GitHub.
+
+2.Clone the forked repository:
+
+bash
+git clone https://github.com/your-username/gujarat-vegetables.git
+
+3.Create a new branch for your changes:
+
+css
+git checkout -b my-feature-branch
+
+4.Make your changes and commit them:
+
+sql
+git add .
+git commit -m "Add my feature"
+
+5.Push the changes to your forked repository:
+
+perl
+Copy code
+git push origin my-feature-branch
+6.Create a pull request on GitHub.
+
+
+
