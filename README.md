@@ -14,7 +14,17 @@ Gujarat Vegetables is a fruit and vegetable delivery app that allows customers t
 * Contact customer support for assistance or feedback
 
 ## Screenshot
-![demo screenshot](https://github.com/Nothing00980/Gujarat-vegetables/blob/master/untitled.mp4)
+
+
+https://github.com/Nothing00980/Gujarat-vegetables/assets/100027640/20777982-9274-462c-bed8-e8266ca59499
+
+
+
+<!-- ![dem
+
+Uploading untitled.mp4…
+
+o screenshot](https://github.com/Nothing00980/Gujarat-vegetables/blob/master/untitled.mp4) -->
 
 
 ## Technology Stack
