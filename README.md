@@ -34,20 +34,22 @@ If you want to contribute to Gujarat Vegetables, follow these steps:
 
 2.Clone the forked repository:
 
-''' git clone https://github.com/Nothing00980/Gujarat-vegetables.git '''
+``` git clone https://github.com/Nothing00980/Gujarat-vegetables.git ```
 
 3.Create a new branch for your changes:
 
-git checkout -b my-feature-branch
+``` git checkout -b my-feature-branch ```
 
 4.Make your changes and commit them:
 
-git add .
-git commit -m "Add my feature"
+``` git add .
+git commit -m "Add my feature" 
+```
 
 5.Push the changes to your forked repository:
 
-git push origin my-feature-branch
+
+``` git push origin my-feature-branch ```
 6.Create a pull request on GitHub.
 
 
