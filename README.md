@@ -34,7 +34,7 @@ If you want to contribute to Gujarat Vegetables, follow these steps:
 
 2.Clone the forked repository:
 
-git clone https://github.com/Nothing00980/Gujarat-vegetables.git
+''' git clone https://github.com/Nothing00980/Gujarat-vegetables.git '''
 
 3.Create a new branch for your changes:
 
